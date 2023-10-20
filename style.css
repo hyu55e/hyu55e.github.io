@@ -115,6 +115,7 @@ nav .fa {
     .nav-links ul li {
         display: block;
     }
+    html, body {overflow-x: hidden;}
 
     /* FONT AWESOME ICONS for icons/ font awesome cdn for code */
 
